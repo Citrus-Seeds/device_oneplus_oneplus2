@@ -29,6 +29,8 @@ PLATFORM_PATH := device/oneplus/oneplus2
 
 BOARD_VENDOR := oneplus
 
+TARGET_USE_CM_RAMDISK := true
+
 # Use Snapdragon LLVM, if available
 TARGET_USE_SDCLANG := true
 
