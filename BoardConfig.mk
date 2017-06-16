@@ -28,6 +28,8 @@ TARGET_OTA_ASSERT_DEVICE := OnePlus2,oneplus2
 
 PLATFORM_PATH := device/oneplus/oneplus2
 
+TARGET_USE_CM_RAMDISK := true
+
 BOARD_VENDOR := oneplus
 
 # Use Snapdragon LLVM, if available
